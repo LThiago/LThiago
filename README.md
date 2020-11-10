@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/react%20-%2324282E.svg?&style=for-the-badge&logo=react&logoColor=%235ED5FF"></img>
 <img src="https://img.shields.io/badge/java%20-%2324282E.svg?&style=for-the-badge&logo=java&logoColor=%23FF1919"></img>
 <img src="https://img.shields.io/badge/python%20-%2324282E.svg?&style=for-the-badge&logo=python&logoColor=%232D4474"></img>
-<img src="https://img.shields.io/badge/r%20-%2324282E.svg?&style=for-the-badge&logo=r&logoColor=%234844C6"></img>
+<img src="https://img.shields.io/badge/android%20-%2324282E.svg?&style=for-the-badge&logo=android&logoColor=%2300EF85"></img>
 <img src="https://img.shields.io/badge/go%20-%2324282E.svg?&style=for-the-badge&logo=go&logoColor=%2310A3DB"></img>
 
 **A little more about me...**
