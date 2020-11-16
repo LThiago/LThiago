@@ -5,6 +5,10 @@
 
 </br>
 
+**Languages**
+- Native Portuguese 🇧🇷
+- Fluent English 🇺🇸
+
 **Language and Tools**
 
 <img src="https://img.shields.io/badge/javascript%20-%2324282E.svg?&style=for-the-badge&logo=javascript&logoColor=%23EDF500"></img>
@@ -14,14 +18,24 @@
 <img src="https://img.shields.io/badge/python%20-%2324282E.svg?&style=for-the-badge&logo=python&logoColor=%232D4474"></img>
 <img src="https://img.shields.io/badge/android%20-%2324282E.svg?&style=for-the-badge&logo=android&logoColor=%2300EF85"></img>
 <img src="https://img.shields.io/badge/go%20-%2324282E.svg?&style=for-the-badge&logo=go&logoColor=%2310A3DB"></img>
+<img src="https://img.shields.io/badge/r%20-%2324282E.svg?&style=for-the-badge&logo=r&logoColor=%233B36B0"></img>
+<img src="https://img.shields.io/badge/c%20-%2324282E.svg?&style=for-the-badge&logo=c&logoColor=%236C85CF"></img>
+<img src="https://img.shields.io/badge/shell script%20-%2324282E.svg?&style=for-the-badge&logo=gnu-bash&logoColor=%23FFFFFF"></img>
+<img src="https://img.shields.io/badge/git%20-%2324282E.svg?&style=for-the-badge&logo=git&logoColor=%23FB3700"></img>
+<img src="https://img.shields.io/badge/github%20-%2324282E.svg?&style=for-the-badge&logo=github&logoColor=%23FFFFFF"></img>
+<img src="https://img.shields.io/badge/arch linux%20-%2324282E.svg?&style=for-the-badge&logo=arch-linux&logoColor=%233082D7"></img>
+<img src="https://img.shields.io/badge/windows%20-%2324282E.svg?&style=for-the-badge&logo=windows&logoColor=%233A8FF5"></img>
+
+</br>
 
 **A little more about me...**
 
-I'm a computer science student who is passionate about linux, open source and I also study cybersecurity in my spare time.
+I'm a computer science student who is passionate about linux(I use Arch btw), open source and I also study cybersecurity in my spare time.
 
 <details>
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lthiago&show_icons=true&theme=dark" />
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lthiago&theme=dark" />
 </details>
