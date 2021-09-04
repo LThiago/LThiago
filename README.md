@@ -35,6 +35,7 @@ Welcome to my Github profile.
 ![linux Badge](https://img.shields.io/badge/linux%20-21262D?style=for-the-badge&logo=linux)
 ![vscode Badge](https://img.shields.io/badge/vscode%20-21262D?style=for-the-badge&logo=visualstudiocode)
 ![postman Badge](https://img.shields.io/badge/postman%20-21262D?style=for-the-badge&logo=postman)
+![heroku Badge](https://img.shields.io/badge/heroku%20-21262D?style=for-the-badge&logo=heroku)
 ![debian Badge](https://img.shields.io/badge/debian%20-21262D?style=for-the-badge&logo=debian)
 ![arch Badge](https://img.shields.io/badge/arch%20-21262D?style=for-the-badge&logo=archlinux)
 ![fedora Badge](https://img.shields.io/badge/fedora%20-21262D?style=for-the-badge&logo=fedora)
