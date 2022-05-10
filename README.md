@@ -24,12 +24,15 @@ Welcome to my Github profile.
 ![sass Badge](https://img.shields.io/badge/sass%20-21262D?style=for-the-badge&logo=sass)
 ![bootstrap Badge](https://img.shields.io/badge/bootstrap%20-21262D?style=for-the-badge&logo=bootstrap)
 ![javascript Badge](https://img.shields.io/badge/javascript%20-21262D?style=for-the-badge&logo=javascript)
+![typescript Badge](https://img.shields.io/badge/typescript%20-21262D?style=for-the-badge&logo=typescript)
 ![angular Badge](https://img.shields.io/badge/angular%20-21262D?style=for-the-badge&logo=angular)
 ![npm Badge](https://img.shields.io/badge/npm%20-21262D?style=for-the-badge&logo=npm)
 ![yarn Badge](https://img.shields.io/badge/yarn%20-21262D?style=for-the-badge&logo=yarn)
 ![java Badge](https://img.shields.io/badge/java%20-21262D?style=for-the-badge&logo=java)
 ![python Badge](https://img.shields.io/badge/python%20-21262D?style=for-the-badge&logo=python)
+![springboot Badge](https://img.shields.io/badge/springboot%20-21262D?style=for-the-badge&logo=springboot)
 ![mysql Badge](https://img.shields.io/badge/mysql%20-21262D?style=for-the-badge&logo=mysql)
+![docker Badge](https://img.shields.io/badge/docker%20-21262D?style=for-the-badge&logo=docker)
 ![git Badge](https://img.shields.io/badge/git%20-21262D?style=for-the-badge&logo=git)
 ![github Badge](https://img.shields.io/badge/github%20-21262D?style=for-the-badge&logo=github)
 ![linux Badge](https://img.shields.io/badge/linux%20-21262D?style=for-the-badge&logo=linux)
@@ -47,10 +50,8 @@ Welcome to my Github profile.
 
 ## Other knowledge
 
-![typescript Badge](https://img.shields.io/badge/typescript%20-21262D?style=for-the-badge&logo=typescript)
 ![react Badge](https://img.shields.io/badge/react%20-21262D?style=for-the-badge&logo=react)
 ![node.js Badge](https://img.shields.io/badge/node.js%20-21262D?style=for-the-badge&logo=nodedotjs)
-![springboot Badge](https://img.shields.io/badge/springboot%20-21262D?style=for-the-badge&logo=springboot)
 ![mongodb Badge](https://img.shields.io/badge/mongodb%20-21262D?style=for-the-badge&logo=mongodb)
 ![firebase Badge](https://img.shields.io/badge/firebase%20-21262D?style=for-the-badge&logo=firebase)
 ![android Badge](https://img.shields.io/badge/android%20-21262D?style=for-the-badge&logo=android)
