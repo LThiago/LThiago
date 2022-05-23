@@ -12,7 +12,7 @@ Welcome to my Github profile.
 ## About Me
 
 - 🎓 Computer Science Graduate at [UEPB](https://www.uepb.edu.br/)
-- 💻 Currently doing an working at [Software Practices Laboratory]([http://nutes.uepb.edu.br/](https://br.linkedin.com/company/softwarepracticeslaboratory?original_referer=https%3A%2F%2Fwww.google.com%2F))
+- 💻 Currently doing an working at [Software Practices Laboratory](https://br.linkedin.com/company/softwarepracticeslaboratory?original_referer=https%3A%2F%2Fwww.google.com%2F)
 - 📌 Lives in Campina Grande, PB - Brazil
 - 📖 Currently learning: Docker
 - 🐧 Former distro hopper, now using WSL
